@@ -1,3 +1,7 @@
+# WARNING: this repo has been archived.
+
+In order to reinstate this repo all security vulnerabilities must be addressed.
+
 <p align="center">
   <a href="https://goodfirstissue.dev" target="_blank">
     <img src="static/readme-logo.svg">
